@@ -3,7 +3,7 @@
 - Audit length: 7 weeks. 
 - Auditor homepage: https://red4sec.com
 
-Red4Sec’s report was exhaustive, and covered the entirety of our project space, with the exception of our post-quantum cryptography, which was coverd by x41 D-Sec. Below is a rundown of issues raised by Red4Sec by section of our network, as well as impact level.
+Red4Sec’s report was exhaustive, and covered the entirety of our project space, with the exception of our post-quantum cryptography, which was reviewed separately by x41 D-Sec. Below is a rundown of issues raised by Red4Sec by section of our network, as well as impact level.
 
 During the analysis, whose report runs over 200 pages, a total of 67 vulnerabilities were detected. Many of these vulnerabilities did not pose any risk by themselves and therefore have been classified as informative.
 
@@ -13,7 +13,7 @@ A summary of the issues per project area is described below.
 
 ## Blockchain
 
-### QRL (Python)
+### QRL Node (Python)
 
 Source: https://github.com/theQRL/QRL/
 
